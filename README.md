@@ -46,6 +46,39 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arpitnuwal&theme=tokyonight)
 
-## 🧠 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnuwal&layout=compact&theme=tokyonight)
+## 🚀 Featured Projects:
+
+### 🔐 Password Generator (React)
+- Built using React.js
+- Generate strong and secure passwords
+- Clean UI with copy feature  
+🔗 https://github.com/arpitnuwal/Password-Generator-in-React-Js
+
+---
+
+### 🌐 Portfolio Website
+- Personal portfolio using HTML, CSS, JS
+- Responsive design  
+🔗 https://your-portfolio-link.com
+
+## 🧠 Skills:
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js, ASP.NET (C#),.net Core
+- Database: MySQL, SQL Server, MongoDB
+- Tools: Git, GitHub, VS Code
+
+## 💼 Experience:
+
+**Software Developer**  
+🏢 IT Company  
+📅 2018 - Present  
+
+- Developed web applications using React & ASP.NET  
+- Worked on APIs and database integration  
+- Improved UI/UX and performance
+
+## 🏅 Achievements:
+- Completed Web Development Course  
+- Built multiple real-world projects  
+- Active GitHub contributor
