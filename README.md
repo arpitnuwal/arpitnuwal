@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Arpit
 
+![Profile Views](https://komarev.com/ghpvc/?username=arpitnuwal&label=Profile%20Views&color=blue&style=for-the-badge)
+
+---
+
 ## 🚀 About Me:
 - 💼 I’m currently working at an **IT Company**
 - 🌱 I’m currently learning **React.js, Node.js & ASP.NET (C#)**
@@ -10,8 +14,14 @@
 
 ---
 
+## 🏆 GitHub Achievements (Trophies)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=arpitnuwal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-nuwal-19b634148/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA0RR5uC1SU%2Bhr7LxqyAb0Q%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-nuwal-19b634148)
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:arpitnuwal1996@gmail.com)
 
@@ -25,18 +35,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![.Net](https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23A91E50.svg?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![MicrosoftSQLServer](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats:
 
@@ -46,6 +51,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arpitnuwal&theme=tokyonight)
 
+---
 
 ## 🚀 Featured Projects:
 
@@ -62,11 +68,15 @@
 - Responsive design  
 🔗 https://your-portfolio-link.com
 
+---
+
 ## 🧠 Skills:
 - Frontend: React.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js, ASP.NET (C#),.net Core
+- Backend: Node.js, Express.js, ASP.NET (C#), .NET Core
 - Database: MySQL, SQL Server, MongoDB
 - Tools: Git, GitHub, VS Code
+
+---
 
 ## 💼 Experience:
 
@@ -76,9 +86,17 @@
 
 - Developed web applications using React & ASP.NET  
 - Worked on APIs and database integration  
-- Improved UI/UX and performance
+- Improved UI/UX and performance  
+
+---
 
 ## 🏅 Achievements:
 - Completed Web Development Course  
 - Built multiple real-world projects  
-- Active GitHub contributor
+- Active GitHub contributor  
+
+---
+
+## 🔥 Contribution Graph
+
+![Snake animation](https://github.com/arpitnuwal/arpitnuwal/blob/output/github-contribution-grid-snake.svg)
