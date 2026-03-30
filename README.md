@@ -72,7 +72,7 @@
 ### 🌐 Portfolio Website
 - Personal portfolio using HTML, CSS, JS
 - Responsive & modern design  
-🔗 [Portfolio Link](https://your-portfolio-link.com)
+🔗 [Portfolio Link](https://arpitnuwal.devwebnapp.site/)
 
 ---
 
@@ -109,22 +109,6 @@
 - Stock Market Analysis & Trading 📈  
 - Gaming & Tech Gadgets  
 - Reading Tech Blogs & Tutorials  
-
----
-
-## ✍️ Blog / Tutorials
-- How to Build a Password Generator in React → 🔗 [Read Here](https://github.com/arpitnuwal/Password-Generator-in-React-Js)
-- Beginner Guide to MongoDB with Node.js → 🔗 [Read Here](https://your-blog-link.com)
-
----
-
-## 🤝 Connect & Support
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/arpitnuwal)
-
----
-
-## 💬 Quote / Motto
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
