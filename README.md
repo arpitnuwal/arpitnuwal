@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate on **Web Development Projects**
 - 🤝 Seeking help with **Advanced Backend & APIs**
 - 💬 Ask me about **React, GitHub, Projects & Web Design**
-- ⚡ Fun fact: I love coding + stock market analysis 📈
+- ⚡ Fun fact: I love coding +
 
 ---
 
@@ -49,7 +49,7 @@
 - 🔹 Advanced React Hooks & Context API
 - 🔹 Node.js & Express.js for RESTful APIs
 - 🔹 ASP.NET Core Advanced Backend Development
-- 🔹 Stock Market Analysis Automation (Python)
+  
 
 ---
 
